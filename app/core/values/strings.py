@@ -1,0 +1,7 @@
+
+    
+
+class AppStrings:
+    name = 'Eva'
+    
+
