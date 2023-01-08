@@ -59,13 +59,12 @@ To use this `voice assistant GUI`, you will need to have the following dependenc
 ```
 
 ## Using the voice assistant GUI
-To use the voice assistant GUI, simply click on the "Start listening" button and speak your command into the microphone. The voice assistant will respond with the appropriate action.
+To use the voice assistant GUI, simply click on the "Mic" button and speak your command into the microphone. The voice assistant will respond with the appropriate action.
 
 Some examples of commands that the voice assistant can understand are:
 
-* "What is the weather today?"
-* "Tell me a joke"
-* "Open YouTube"
+* "What is your name?"...
+
 
 The voice assistant is still in development, so it may not be able to understand all commands. If it does not understand a command, it will let you know and ask if you would like to try again.
 
