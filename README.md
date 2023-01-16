@@ -17,6 +17,7 @@ This is a simple graphical user interface (GUI) for a voice assistant built usin
 2. `pyttsx3`: a Python library for text-to-speech synthesis.
 3. `speech recognition`: a Python library for speech recognition.
 4. `pyaudio`: a Python library for working with audio.
+5. `pyjokes`: a Python library for jokes.
 
 ## Getting started
 To use this `voice assistant GUI`, you will need to have the following dependencies installed on your machine:
@@ -51,6 +52,11 @@ To use this `voice assistant GUI`, you will need to have the following dependenc
 ``` 
 > pip install PyAudio==0.2.13
 ```
+
+* `PyJokes`...
+```
+> pip install pyjokes==0.6.0
+```
  
 <strong> Or you can download all libraries via the following command: </strong>
 
@@ -63,7 +69,10 @@ To use the voice assistant GUI, simply click on the "Mic" button and speak your 
 
 Some examples of commands that the voice assistant can understand are:
 
-* "What is your name?"...
+* "What is your name?".
+* "What is the time/date?".
+* "Tell me a joke".
+* "open google/youtube"
 
 
 The voice assistant is still in development, so it may not be able to understand all commands. If it does not understand a command, it will let you know and ask if you would like to try again.
@@ -94,5 +103,10 @@ To learn more about the FaceAB software and its capabilities, please see the fol
 
 * `PyAudio`:
     * PyAudio documentation: https://people.csail.mit.edu/hubert/pyaudio/docs/
+
+
+* `PyJokes`:
+    * PyJokes documentation: https://pyjok.es/install/
+
 
 These references provide more detailed information about the `voice assistant GUI` software, its capabilities, and its underlying technologies.

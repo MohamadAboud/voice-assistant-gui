@@ -82,8 +82,6 @@ class ChatScreen(UserControl):
         )
 
     def __Body(self):
-
-
         return Container(
             bgcolor=AppColor.backgroundColor,
             expand=True,
